@@ -1,0 +1,18 @@
+@media (max-width: 700px) {
+    body {
+      width: 300px;
+      border: 2px;
+    }
+  }
+  header {
+    font-size: 30px;
+    font-style: sans-serif;
+  }
+  p {
+    margin: 30px;
+  }
+  code {
+    margin: 0 0 0 40px;
+    background-image: linear-gradient(to bottom, #dfdfe2 1.845rem, white 1.845rem);
+  }
+  

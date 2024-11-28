@@ -1,0 +1,35 @@
+body {
+    background-color: #0a0a32;
+    color: white;
+    }
+  #img-div {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+  }
+  #main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #1b1b32;
+    height: 100vh;
+  }
+  h1, figcaption, h2 {
+    text-align: center;
+  }
+  #tribute-info {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 20px;
+  }
+  figcaption {
+    margin-top: 5px;
+  }
